@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaKhinevich&count_private=true&hide=stars,commits)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaKhinevich&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=radical)
 
 ## Technologies and tools
 ![HTML](https://img.shields.io/badge/-HTML-green?style=for-the-badge&logo=html)
