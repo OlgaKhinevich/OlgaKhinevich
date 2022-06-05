@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaKhinevich&count_private=true&hide=issues,contribs&show_icons=true&theme=nightowl&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaKhinevich&layout=compact&theme=nightowl&hide_border=true&langs_count=5&hide_title=true)](https://github.com/OlgaKhinevich/github-readme-stats)
 
 ## Technologies and tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaKhinevich&layout=compact&theme=nightowl&hide_border=true&langs_count=5&hide_title=true)](https://github.com/OlgaKhinevich/github-readme-stats)  
 ![HTML](https://img.shields.io/badge/-HTML-green?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-green?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=for-the-badge&logo=javascript)
