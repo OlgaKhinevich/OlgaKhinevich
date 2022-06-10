@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Olga, junior web developer . I'm looking for a job where I can participate in interesting projects, develop and enjoy the workflow.  
+:small_orange_diamond: I am learning new technologies quickly and independently. Currently: TypeScript, Vue3.  
+:small_orange_diamond: I strive to keep my knowledge up to date ![CodeWars](https://www.codewars.com/users/OlgaKhinevich/badges/small)  
+:small_orange_diamond: I carry out the assigned tasks responsibly.  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaKhinevich&count_private=true&hide=issues,contribs&show_icons=true&theme=nightowl&hide_border=true)
 
 ## Technologies and tools
