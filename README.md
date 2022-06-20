@@ -21,11 +21,12 @@ Base: ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&
 OS: ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## My projects
-### Test tasks
-Client's form [[view]](https://olgakhinevich.github.io/test_task_client_form/) [[code]](https://github.com/OlgaKhinevich/test_task_client_form)  
-Simon game [[view]](https://github.com/OlgaKhinevich/test_task_simon_game) [[code]](https://github.com/OlgaKhinevich/test_task_simon_game)  
-Working with DOM [[code]](https://github.com/OlgaKhinevich/test_task_working_with_DOM)  
-Сat's pinterest [[view]](https://olgakhinevich.github.io/frontend-challenge/) [[code]](https://github.com/OlgaKhinevich/frontend-challenge)  
+| Test tasks |  |  | Pet projects |
+|----------------|:-------:|:-------:|----------------|
+| Client's form | [[view]](https://olgakhinevich.github.io/test_task_client_form/) | [[code]](https://github.com/OlgaKhinevich/test_task_client_form) |  |
+| Simon game | [[view]](https://github.com/OlgaKhinevich/test_task_simon_game) | [[code]](https://github.com/OlgaKhinevich/test_task_simon_game) |
+| Working with DOM | - | [[code]](https://github.com/OlgaKhinevich/test_task_working_with_DOM)   |
+| Сat's pinterest | [[view]](https://olgakhinevich.github.io/frontend-challenge/) | [[code]](https://github.com/OlgaKhinevich/frontend-challenge) |
 <!--
 **OlgaKhinevich/OlgaKhinevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
