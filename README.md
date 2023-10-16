@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Olga, web developer. 
+I'm Olga, web developer.  
 :small_orange_diamond: I am learning new technologies quickly and independently. Currently: Python.  
 :small_orange_diamond: I strive to keep my knowledge up to date ![CodeWars](https://www.codewars.com/users/OlgaKhinevich/badges/small)  
 :small_orange_diamond: I carry out the assigned tasks responsibly.  
