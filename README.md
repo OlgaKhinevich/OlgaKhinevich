@@ -36,23 +36,10 @@ I'm Olga, web developer.
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## My projects
-| Test tasks |  |  | Pet projects |
-|----------------|:-------:|:-------:|----------------|
-| Client's form | [[view]](https://olgakhinevich.github.io/test_task_client_form/) | [[code]](https://github.com/OlgaKhinevich/test_task_client_form) |  |
-| Simon game | [[view]](https://github.com/OlgaKhinevich/test_task_simon_game) | [[code]](https://github.com/OlgaKhinevich/test_task_simon_game) |
-| Working with DOM | - | [[code]](https://github.com/OlgaKhinevich/test_task_working_with_DOM)   |
-| Сat's pinterest | [[view]](https://olgakhinevich.github.io/frontend-challenge/) | [[code]](https://github.com/OlgaKhinevich/frontend-challenge) |
-<!--
-**OlgaKhinevich/OlgaKhinevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Test tasks           | View                     | Code                      | Pet projects         | View                     | Code                      
+|----------------------|--------------------------|---------------------------|----------------------|----------------------|----------------------|
+| Client's form        | [[view]](https://olgakhinevich.github.io/test_task_client_form/) | [[code]](https://github.com/OlgaKhinevich/test_task_client_form) | CRM System | - | [[code]](https://github.com/OlgaKhinevich/crm_system) |                     |
+| Simon game           | [[view]](https://github.com/OlgaKhinevich/test_task_simon_game) | [[code]](https://github.com/OlgaKhinevich/test_task_simon_game)   | 
+| Working with DOM     | -                        | [[code]](https://github.com/OlgaKhinevich/test_task_working_with_DOM)   |                      |
+| Cat's pinterest      | [[view]](https://olgakhinevich.github.io/frontend-challenge/) | [[code]](https://github.com/OlgaKhinevich/frontend-challenge)       |                      |
